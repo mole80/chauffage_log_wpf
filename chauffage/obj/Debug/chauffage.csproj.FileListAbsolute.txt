@@ -1,0 +1,15 @@
+C:\prive\chauffage\log_wpf\chauffage\bin\Debug\chauffage.exe.config
+C:\prive\chauffage\log_wpf\chauffage\bin\Debug\chauffage.exe
+C:\prive\chauffage\log_wpf\chauffage\bin\Debug\chauffage.pdb
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.csprojResolveAssemblyReference.cache
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\MainWindow.g.cs
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\App.g.cs
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage_MarkupCompile.cache
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage_MarkupCompile.lref
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\MainWindow.baml
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.g.resources
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.Properties.Resources.resources
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.csproj.GenerateResource.Cache
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.csproj.CoreCompileInputs.cache
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.exe
+C:\prive\chauffage\log_wpf\chauffage\obj\Debug\chauffage.pdb

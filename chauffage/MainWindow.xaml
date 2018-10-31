@@ -1,0 +1,21 @@
+﻿<Window x:Class="chauffage.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:chauffage"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Closed="Window_Closed">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Read" Height="100" Width="100" Click="Button_Click"/>
+            <Button Name="BtnStart" Content="Start" Height="100" Width="100" Click="BtnStart_Click"/>
+            <Button Name="BtnStop" Content="Stop" Height="100" Width="100" Click="BtnStop_Click"/>
+            <StackPanel VerticalAlignment="Center" Orientation="Vertical">
+                <TextBlock Height="30" Text="{Binding CptMeas}" VerticalAlignment="Center" Margin="10,5"/>
+                <TextBlock Height="30" Text="{Binding CptTime}" VerticalAlignment="Center" Margin="10,5"/>
+            </StackPanel>
+        </StackPanel>
+        <TextBox Text="{Binding RawText}"/>
+    </StackPanel>
+</Window>
